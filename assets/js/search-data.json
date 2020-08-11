@@ -21,10 +21,6 @@
   
 
   
-
-  
-  
-
   
 
   
@@ -37,7 +33,7 @@
   
 
   
-      ,"page9": {
+      ,"page7": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://bhanushashank.github.io/sample-blog/robots.txt",
